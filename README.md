@@ -1,12 +1,5 @@
 # excel-workbook
 
-I'll take a look at the file and create a README along with a short description for GitHub. Let's start by analyzing the contents of the Excel file.
-
-I'll first open the file to understand its structure and contents.
-
-The Excel file contains six sheets: Sheet-1, Sheet-2, Sheet-3, Sheet-4, Sheet-5, and Sheet-6. I'll inspect the first few rows of each sheet to understand the content and structure better. ​​
-
-README
 Overview
 This Excel file contains six sheets designed to cover various aspects of data analysis using Excel. Each sheet presents tasks that focus on different functionalities and data handling techniques within Excel, such as designation analysis, income statement calculations, EMI calculations, text-to-column operations, currency conversions, and stock market performance analysis.
 
